@@ -1,0 +1,14 @@
+sid - 101
+sname - ajay
+smarks - 85
+---------------
+
+sid - 102
+sname - matt
+smarks - 90
+---------------
+
+sid - 103
+sname - rahul
+smarks - 78
+---------------
